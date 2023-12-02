@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sameeksha Katoch"
 title_separator          : "-"
 name                     : &name "Sameeksha Katoch"
-description              : &description "Doctoral student in Electrical Engineering at Arizona State University"
+description              : &description "Senior Machine Learning Engineer at Qualcomm | PhD at Arizona State University"
 url                      : https://sam93katoch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sam93katoch/sam93katoch.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sameeksha Katoch"
   avatar           : "sam.jpg"
-  bio              : "Doctoral student in Electrical Engineering at Arizona State University with focus on Machine Learning, Computer Vision, Signal Processing and Data Analysis "
-  location         : "Tempe, AZ, USA"
+  bio              : "Senior Machine Learning Engineer at Qualcomm | PhD at Arizona State University with focus on Machine Learning, Computer Vision, Signal Processing and Data Analysis "
+  location         : "San Diego, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=afVgIiYAAAAJ&hl=en&oi=ao"
-  email            : skatoch1@asu.edu
+  email            : sam94katoch@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
