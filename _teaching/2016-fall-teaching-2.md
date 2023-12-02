@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "EEE334 - Circuits II" (Labs and Course)
 venue: "Arizona State University, Electrical Engineering department"
-date: 09-18-2016 
+date: 2018-08-19 
 location: "Tempe, Arizona"
 ---
 
